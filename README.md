@@ -1,12 +1,13 @@
-# abusive-level-classification
+# Abusive Level Multiclass Text Classification Model
 
 ## Idea:
 Multiclass text classification based on TFIDF 
 
-## Models Tested
-- Naive Bayes Classifier for Multinomial Models
-- Linear Support Vector Machine
-- Logistic Regression
+## Model
+Naive Bayes Classifier for Multinomial Models
+
+## Validation Method
+kFold (k = 10)
 
 ## Dataframe columns
 
@@ -18,6 +19,13 @@ Multiclass text classification based on TFIDF
   - Strongly abusive
   - Very strongly abusive
 
+## How to use
+- Click on the link to open Google Colab which can be found in `abusive_speech_detection.ipynb`
+- Run each code block, except the last one
+- Change the text in quotes that can be found in the last code block to the sentence you want to input into the model
+- Run the last code block
+
+---
 @inproceedings{cercas-curry-etal-2021-convabuse,
 title = "{C}onv{A}buse: Data, Analysis, and Benchmarks for Nuanced Abuse Detection in Conversational {AI}",
 author = "Cercas Curry, Amanda and
