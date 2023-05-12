@@ -42,4 +42,4 @@ pages = "7388--7403"
 }
 
 ## Slides
-(Google Slides)[https://docs.google.com/presentation/d/1a0ZMqQk33PdaptESNBiKfLoxsBD4U5R3Y-0g5udHxnk/edit?usp=sharing]
+[Google Slides](https://docs.google.com/presentation/d/1a0ZMqQk33PdaptESNBiKfLoxsBD4U5R3Y-0g5udHxnk/edit?usp=sharing)
